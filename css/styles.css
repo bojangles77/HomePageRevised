@@ -1,0 +1,35 @@
+.pli {
+  color:white;
+  font-size: 25px;
+  font-family: 'Didact Gothic', sans-serif;
+}
+h1 {
+text-align:center;
+color:white;
+font-size: 100px;
+font-family: 'Didact Gothic', sans-serif;
+}
+.h2a {
+ color:white;
+ font-size:50px;
+ font-family: 'Didact Gothic', sans-serif;
+}
+table {
+  width: 99vw;
+}
+td {
+  text-align: center;
+  font-family: 'Didact Gothic', sans-serif;
+  font-size:50px;
+  color:white
+}
+th {
+  text-align: center;
+  font-family: 'Didact Gothic', sans-serif;
+  font-size:50px;
+  color:white
+}
+.eight {
+  width: 500px;
+  height: 500px;
+}
